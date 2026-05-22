@@ -1,9 +1,0 @@
-{
-  "name": "Japan Macro Board",
-  "short_name": "J-Macro",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#0f1115",
-  "theme_color": "#0f1115",
-  "description": "日本の主要マクロ指標をワンボタンで取得。YoY/MoM自動計算・PWA対応。"
-}
